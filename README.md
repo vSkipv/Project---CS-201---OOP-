@@ -8,8 +8,8 @@ Admin Mode
 
 User Mode 
 
-in Admin mode you can Access to Create need to Password [ Password in mode is ( admin ) ] 
-
+**in Admin mode you can Access to Create need to Password [ Password in mode is ( admin ) ] 
+**
 1 - DataBase To Make Trains 
 
 2 - Add More Details 
@@ -25,7 +25,7 @@ in Admin mode you can Access to Create need to Password [ Password in mode is ( 
 =========================================================================
 
 
-in User Mode you Can 
+**in User Mode you Can **
 
 1 - reserv your Tickt 
 
